@@ -93,10 +93,10 @@ ENV/
 *.txt
 *.p
 *.jpg
+*.png
 *.npy
 *.pyc
 .DS_Store
 output/
 data/
 imagenet_models/
-MScleanTrainFilterNovelBase.txt
